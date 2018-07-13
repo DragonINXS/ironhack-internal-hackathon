@@ -1,0 +1,113 @@
+/* colors: BLUE #30C3FF
+WHITE #FFFFFFF
+GRAY: #494747 */
+
+
+.landing-pics {
+    height: 70vh;
+    background-image: url(../images/derek-torsani-227207-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.center-row {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.padding {
+    padding: 30px
+}
+
+.pic-3 {
+    height: 250px;
+}
+
+.blue-font {
+    color:#30C3FF;
+}
+
+.light-font {
+    color: #ffffff;
+}
+
+.drk-bkgd {
+    background-color: #494747;
+}
+
+.drkr-bkgd {
+    background-color: #272727;
+}
+
+.light-bkgd {
+    background-color: #cfcdcd;
+}
+
+.miami-font {
+    font-family: 'Yellowtail', cursive;
+    font-size: 70px;
+}
+
+.offset-btn {
+    position: absolute;
+    margin: -25px;
+}
+
+.apply-bar {
+    height: 50px;
+    background-color: #888484;
+}
+
+.butn {
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 20px;
+    background: #30C3FF;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+#iron-gallery h1 {
+    font-size: 75px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid black; */
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* div{
+    min-height: 200px;
+  } */
+  
+  .box{
+    height: 100vh;
+  }
+  
+  .title{
+    max-height: 50px;
+  }
+  
+  #location{
+    height: 30vh;
+  }
+  
+  #location{
+    height: 60vh;
+  }
+  
+  #extra-info{
+    height: 40vh;
+  }
+  
+  img{
+    height: 100%;
+  }
+  
+
